@@ -1,0 +1,6 @@
+{
+  "name": "Dev Bappa Nimantran",
+  "description": "पारंपरिक मराठी गणेशोत्सव निमंत्रण पत्रिका, उत्सव वेळापत्रक, स्थळ व संपर्क",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
